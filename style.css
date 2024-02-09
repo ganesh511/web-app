@@ -1,0 +1,22 @@
+/* Custom styles for the task manager app */
+
+/* Center the task manager */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  /* Style the task input and buttons */
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  /* Style the task list items */
+  .list-group-item {
+    border: none;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
